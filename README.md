@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ijindal1
-- 👀 I’m interested in Data Science/Financial Analysis
-- 🌱 I’m currently learning how to use Github
-- 💞️ I’m looking to collaborate on financial data analytics
-- 📫 How to reach me jindal.ishita93@gmail.com 
+- 🛠️ Julep AI
+- 📫 How to reach me ishita@julep.ai
 
 <!---
 ijindal1/ijindal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
