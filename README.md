@@ -1,3 +1,12 @@
+```
+     _                 _          __ _
+ ___| |_ __ _ _   _   (_)_ __    / _| | _____      __
+/ __| __/ _` | | | |  | | '_ \  | |_| |/ _ \ \ /\ / /
+\__ \ || (_| | |_| |  | | | | | |  _| | (_) \ V  V /
+|___/\__\__,_|\__, |  |_|_| |_| |_| |_|\___/ \_/\_/
+              |___/
+```
+
 # Ishita Jindal
 
 Building [memory.store](https://memory.store) — memory infrastructure for AI agents.
