@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ijindal1
-- 🛠️ Julep AI
-- 📫 How to reach me ishita@julep.ai
+# Ishita Jindal
 
-<!---
-ijindal1/ijindal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building [memory.store](https://memory.store) — memory infrastructure for AI agents.
+
+Previously helped build [Julep](https://github.com/julep-ai/julep), an open-source platform for AI workflows.
+
+Now experimenting with MCPs so people can discover themselves — starting with [memories.new](https://memories.new).
+
+[ishita.space](https://ishita.space) · [𝕏](https://x.com/IshitaJindal17) · ishita@julep.ai
