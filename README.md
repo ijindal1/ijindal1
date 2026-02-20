@@ -9,7 +9,7 @@
 
 # Ishita Jindal
 
-Building [memory.store](https://memory.store) — memory infrastructure for AI agents.
+Building [memory.store](https://memory.store) — one memory for all your AI agents.
 
 Previously helped build [Julep](https://github.com/julep-ai/julep), an open-source platform for AI workflows.
 
