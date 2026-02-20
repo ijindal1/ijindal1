@@ -6,4 +6,4 @@ Previously helped build [Julep](https://github.com/julep-ai/julep), an open-sour
 
 Now experimenting with MCPs so people can discover themselves — starting with [memories.new](https://memories.new).
 
-[ishita.space](https://ishita.space) · [𝕏](https://x.com/IshitaJindal17) · ishita@julep.ai
+[ishita.space](https://ishita.space) · [𝕏](https://x.com/IshitaJindal17) · ishita@memory.store
